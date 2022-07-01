@@ -1,0 +1,5 @@
+--- FAIL: TestModule1CheckEnvGOOS (0.00s)
+    module1_test.go:17: 'go env' does not work as expected
+FAIL
+exit status 1
+FAIL	github.com/pluralsight-projects/golang-cli-playbook/module1	0.265s
